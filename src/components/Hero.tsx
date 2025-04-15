@@ -1,4 +1,4 @@
-
+import sonrisa from "./images/sonrisa.jpg";
 import { ArrowDown } from 'lucide-react';
 
 const Hero = () => {
@@ -8,7 +8,7 @@ const Hero = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center z-0" 
         style={{ 
-          backgroundImage: 'url("https://sdmntprwestus.oaiusercontent.com/files/00000000-9c3c-6230-a0ec-baaacf299535/raw?se=2025-04-14T05%3A12%3A35Z&sp=r&sv=2024-08-04&sr=b&scid=b9243eb1-88fd-5f3a-a2f0-c6b0bba7751d&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-13T20%3A39%3A18Z&ske=2025-04-14T20%3A39%3A18Z&sks=b&skv=2024-08-04&sig=pJG9jMbqWs9hBQjUDL4plXGi%2BeG0QqbMOWYEo8m/Xfo%3D")',
+          backgroundImage: `url(${sonrisa})`,
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-r from-dental-dark/70 to-dental/50"></div>
