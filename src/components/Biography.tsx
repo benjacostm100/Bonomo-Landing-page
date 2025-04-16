@@ -10,7 +10,7 @@ const Biography = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="order-2 md:order-1">
             <p className="text-lg mb-6 text-gray-700 leading-relaxed">
-              Egresado de la Universidad de Buenos Aires, el Dr. Tobías Bonomo ha dedicado su carrera a transformar sonrisas y mejorar la confianza de sus pacientes. Con especialización en implantes capilares y tratamientos estéticos, ofrece una atención cálida, profesional y actualizada.
+              Egresado de la Universidad de Buenos Aires, el Dr. Tobías Bonomo ha dedicado su carrera a transformar sonrisas y mejorar la confianza de sus pacientes. Con especialización en implantes dentales y tratamientos estéticos, ofrece una atención cálida, profesional y actualizada.
             </p>
             
             <div className="space-y-4">
@@ -32,7 +32,7 @@ const Biography = () => {
                 <div>
                   <h3 className="font-bold text-gray-900">Experiencia Profesional</h3>
                   <p className="text-gray-600">Más de 10 años de experiencia en odontología</p>
-                  <p className="text-gray-600">Especialista en implantes capilares y estética</p>
+                  <p className="text-gray-600">Especialista en implantes dentales y estética</p>
                 </div>
               </div>
             </div>

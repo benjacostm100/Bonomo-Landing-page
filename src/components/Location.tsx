@@ -31,7 +31,7 @@ const Location = () => {
                 <MapPin className="h-6 w-6 text-dental mr-4 flex-shrink-0" />
                 <div>
                   <h4 className="font-bold text-gray-900">Dirección</h4>
-                  <p className="text-gray-600">Av. Santa Fe 1234, CABA</p>
+                  <p className="text-gray-600">Av. Santa Fe 2649, CABA</p>
                   <p className="text-gray-600">Buenos Aires, Argentina</p>
                 </div>
               </div>

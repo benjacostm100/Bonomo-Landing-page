@@ -4,7 +4,7 @@ import { Stethoscope, Star, Sparkles, Calendar, HeartPulse } from 'lucide-react'
 const treatments = [
   {
     id: 1,
-    title: "Implantes Capilares",
+    title: "Implantes Dentales",
     description: "Recupera la confianza con implantes naturales de alta calidad y durabilidad.",
     icon: <Stethoscope className="h-12 w-12 text-dental mb-4" />,
   },
