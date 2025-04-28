@@ -1,5 +1,5 @@
 import { GraduationCap, Briefcase } from 'lucide-react';
-import DrBonomo from './images/dr-bonomo.png';
+import DrBonomo from '/imagenes/bonomo2.jpg';
 
 const Biography = () => {
   return (

@@ -1,4 +1,4 @@
-import sonrisa from "./images/sonrisa.jpg";
+import sonrisa from "/imagenes/sonrisa3.jpg";
 import { ArrowDown } from 'lucide-react';
 
 const Hero = () => {
